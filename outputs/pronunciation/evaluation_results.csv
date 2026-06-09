@@ -1,0 +1,11 @@
+file,target_sentence_id,closest_sentence_id,closest_text,score,weak_region,duration_delta,feedback
+data/pronunciation/user_tests/sentence_001_user01.wav,sentence_001,sentence_001,오늘 공기가 맑아요,98.4,중반,0.032,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 중반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_002_user01.wav,sentence_002,sentence_002,감기에 걸렸어요,98.4,후반,0.096,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 후반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_003_user01.wav,sentence_003,sentence_003,거기 의자에 앉으세요,98.4,후반,0.0,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 후반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_004_user01.wav,sentence_004,sentence_004,물을 조금 마실게요,98.8,초반,0.032,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 초반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_005_user01.wav,sentence_005,sentence_005,약을 먹을 시간이에요,98.3,중반,-0.224,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 중반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_006_user01.wav,sentence_006,sentence_006,천천히 다시 말해 주세요,98.4,중반,0.096,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 중반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_007_user01.wav,sentence_007,sentence_007,오른쪽 버튼을 눌러 주세요,98.5,후반,0.064,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 후반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_008_user01.wav,sentence_008,sentence_008,숨을 크게 쉬어 보세요,98.4,후반,0.0,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 후반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_009_user01.wav,sentence_009,sentence_009,지금 상태를 알려 주세요,98.8,후반,-0.064,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 후반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.
+data/pronunciation/user_tests/sentence_010_user01.wav,sentence_010,sentence_010,도움이 필요해요,98.4,중반,0.032,전체 발화 길이는 기준과 비슷합니다. 기준 발음과 전반적으로 매우 유사합니다. 중반 구간의 유사도가 가장 낮습니다. 이 부분을 기준 발음과 다시 비교해 보세요.

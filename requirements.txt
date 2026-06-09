@@ -1,0 +1,14 @@
+edge-tts
+librosa
+matplotlib
+numpy
+pandas
+pytest
+scikit-learn
+soundfile
+sounddevice
+torch
+PySide6
+faster-whisper
+rapidfuzz
+google-genai

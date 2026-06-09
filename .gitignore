@@ -1,0 +1,27 @@
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.DS_Store
+
+# Local audio/data artifacts are too large or privacy-sensitive for GitHub.
+data/
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.aac
+
+# Generated runtime artifacts.
+models/
+tmp/
+docs/superpowers/
+2026-*.md
+
+# Keep lightweight result CSVs, skip generated images/logs by default.
+outputs/*
+!outputs/pronunciation/
+outputs/pronunciation/*
+!outputs/pronunciation/*.csv

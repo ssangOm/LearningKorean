@@ -1,0 +1,2 @@
+file,target_sentence_id,closest_sentence_id,closest_text,score,recognized_text,text_score,weak_region,duration_delta,feedback
+data/pronunciation/user_tests/ui_aa0.wav,aa0,aa0,저 식당 음식이 정말 맛있나 봐요.,0.0,안녕하세요,0.0,속도,1.856,"인식된 문장: 안녕하세요 문장 일치도는 0.0점입니다. 빠진 것으로 보이는 표현: 저, 식당, 음식이, 정말, 맛있나, 봐요 다르게 인식된 표현: 안녕하세요 발화 길이 참고: 전체 발화 길이는 기준보다 깁니다."

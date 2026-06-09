@@ -1,0 +1,61 @@
+sentence_id,text,purpose,voice,condition,path
+sentence_001,오늘 공기가 맑아요,공기/고기 유사 발음,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_001/sentence_001_ko-KR-SunHiNeural_clean.wav
+sentence_001,오늘 공기가 맑아요,공기/고기 유사 발음,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_001/sentence_001_ko-KR-SunHiNeural_mild.wav
+sentence_001,오늘 공기가 맑아요,공기/고기 유사 발음,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_001/sentence_001_ko-KR-SunHiNeural_room.wav
+sentence_001,오늘 공기가 맑아요,공기/고기 유사 발음,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_001/sentence_001_ko-KR-InJoonNeural_clean.wav
+sentence_001,오늘 공기가 맑아요,공기/고기 유사 발음,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_001/sentence_001_ko-KR-InJoonNeural_mild.wav
+sentence_001,오늘 공기가 맑아요,공기/고기 유사 발음,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_001/sentence_001_ko-KR-InJoonNeural_room.wav
+sentence_002,감기에 걸렸어요,감기/경기 유사 발음,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_002/sentence_002_ko-KR-SunHiNeural_clean.wav
+sentence_002,감기에 걸렸어요,감기/경기 유사 발음,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_002/sentence_002_ko-KR-SunHiNeural_mild.wav
+sentence_002,감기에 걸렸어요,감기/경기 유사 발음,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_002/sentence_002_ko-KR-SunHiNeural_room.wav
+sentence_002,감기에 걸렸어요,감기/경기 유사 발음,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_002/sentence_002_ko-KR-InJoonNeural_clean.wav
+sentence_002,감기에 걸렸어요,감기/경기 유사 발음,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_002/sentence_002_ko-KR-InJoonNeural_mild.wav
+sentence_002,감기에 걸렸어요,감기/경기 유사 발음,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_002/sentence_002_ko-KR-InJoonNeural_room.wav
+sentence_003,거기 의자에 앉으세요,위치 명령,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_003/sentence_003_ko-KR-SunHiNeural_clean.wav
+sentence_003,거기 의자에 앉으세요,위치 명령,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_003/sentence_003_ko-KR-SunHiNeural_mild.wav
+sentence_003,거기 의자에 앉으세요,위치 명령,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_003/sentence_003_ko-KR-SunHiNeural_room.wav
+sentence_003,거기 의자에 앉으세요,위치 명령,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_003/sentence_003_ko-KR-InJoonNeural_clean.wav
+sentence_003,거기 의자에 앉으세요,위치 명령,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_003/sentence_003_ko-KR-InJoonNeural_mild.wav
+sentence_003,거기 의자에 앉으세요,위치 명령,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_003/sentence_003_ko-KR-InJoonNeural_room.wav
+sentence_004,물을 조금 마실게요,헬스케어/일상,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_004/sentence_004_ko-KR-SunHiNeural_clean.wav
+sentence_004,물을 조금 마실게요,헬스케어/일상,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_004/sentence_004_ko-KR-SunHiNeural_mild.wav
+sentence_004,물을 조금 마실게요,헬스케어/일상,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_004/sentence_004_ko-KR-SunHiNeural_room.wav
+sentence_004,물을 조금 마실게요,헬스케어/일상,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_004/sentence_004_ko-KR-InJoonNeural_clean.wav
+sentence_004,물을 조금 마실게요,헬스케어/일상,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_004/sentence_004_ko-KR-InJoonNeural_mild.wav
+sentence_004,물을 조금 마실게요,헬스케어/일상,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_004/sentence_004_ko-KR-InJoonNeural_room.wav
+sentence_005,약을 먹을 시간이에요,헬스케어,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_005/sentence_005_ko-KR-SunHiNeural_clean.wav
+sentence_005,약을 먹을 시간이에요,헬스케어,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_005/sentence_005_ko-KR-SunHiNeural_mild.wav
+sentence_005,약을 먹을 시간이에요,헬스케어,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_005/sentence_005_ko-KR-SunHiNeural_room.wav
+sentence_005,약을 먹을 시간이에요,헬스케어,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_005/sentence_005_ko-KR-InJoonNeural_clean.wav
+sentence_005,약을 먹을 시간이에요,헬스케어,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_005/sentence_005_ko-KR-InJoonNeural_mild.wav
+sentence_005,약을 먹을 시간이에요,헬스케어,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_005/sentence_005_ko-KR-InJoonNeural_room.wav
+sentence_006,천천히 다시 말해 주세요,음성 인터페이스,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_006/sentence_006_ko-KR-SunHiNeural_clean.wav
+sentence_006,천천히 다시 말해 주세요,음성 인터페이스,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_006/sentence_006_ko-KR-SunHiNeural_mild.wav
+sentence_006,천천히 다시 말해 주세요,음성 인터페이스,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_006/sentence_006_ko-KR-SunHiNeural_room.wav
+sentence_006,천천히 다시 말해 주세요,음성 인터페이스,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_006/sentence_006_ko-KR-InJoonNeural_clean.wav
+sentence_006,천천히 다시 말해 주세요,음성 인터페이스,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_006/sentence_006_ko-KR-InJoonNeural_mild.wav
+sentence_006,천천히 다시 말해 주세요,음성 인터페이스,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_006/sentence_006_ko-KR-InJoonNeural_room.wav
+sentence_007,오른쪽 버튼을 눌러 주세요,명령 문장,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_007/sentence_007_ko-KR-SunHiNeural_clean.wav
+sentence_007,오른쪽 버튼을 눌러 주세요,명령 문장,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_007/sentence_007_ko-KR-SunHiNeural_mild.wav
+sentence_007,오른쪽 버튼을 눌러 주세요,명령 문장,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_007/sentence_007_ko-KR-SunHiNeural_room.wav
+sentence_007,오른쪽 버튼을 눌러 주세요,명령 문장,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_007/sentence_007_ko-KR-InJoonNeural_clean.wav
+sentence_007,오른쪽 버튼을 눌러 주세요,명령 문장,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_007/sentence_007_ko-KR-InJoonNeural_mild.wav
+sentence_007,오른쪽 버튼을 눌러 주세요,명령 문장,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_007/sentence_007_ko-KR-InJoonNeural_room.wav
+sentence_008,숨을 크게 쉬어 보세요,헬스케어,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_008/sentence_008_ko-KR-SunHiNeural_clean.wav
+sentence_008,숨을 크게 쉬어 보세요,헬스케어,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_008/sentence_008_ko-KR-SunHiNeural_mild.wav
+sentence_008,숨을 크게 쉬어 보세요,헬스케어,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_008/sentence_008_ko-KR-SunHiNeural_room.wav
+sentence_008,숨을 크게 쉬어 보세요,헬스케어,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_008/sentence_008_ko-KR-InJoonNeural_clean.wav
+sentence_008,숨을 크게 쉬어 보세요,헬스케어,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_008/sentence_008_ko-KR-InJoonNeural_mild.wav
+sentence_008,숨을 크게 쉬어 보세요,헬스케어,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_008/sentence_008_ko-KR-InJoonNeural_room.wav
+sentence_009,지금 상태를 알려 주세요,상태 입력,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_009/sentence_009_ko-KR-SunHiNeural_clean.wav
+sentence_009,지금 상태를 알려 주세요,상태 입력,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_009/sentence_009_ko-KR-SunHiNeural_mild.wav
+sentence_009,지금 상태를 알려 주세요,상태 입력,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_009/sentence_009_ko-KR-SunHiNeural_room.wav
+sentence_009,지금 상태를 알려 주세요,상태 입력,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_009/sentence_009_ko-KR-InJoonNeural_clean.wav
+sentence_009,지금 상태를 알려 주세요,상태 입력,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_009/sentence_009_ko-KR-InJoonNeural_mild.wav
+sentence_009,지금 상태를 알려 주세요,상태 입력,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_009/sentence_009_ko-KR-InJoonNeural_room.wav
+sentence_010,도움이 필요해요,도움 요청,ko-KR-SunHiNeural,clean,data/pronunciation/references/sentence_010/sentence_010_ko-KR-SunHiNeural_clean.wav
+sentence_010,도움이 필요해요,도움 요청,ko-KR-SunHiNeural,mild,data/pronunciation/references/sentence_010/sentence_010_ko-KR-SunHiNeural_mild.wav
+sentence_010,도움이 필요해요,도움 요청,ko-KR-SunHiNeural,room,data/pronunciation/references/sentence_010/sentence_010_ko-KR-SunHiNeural_room.wav
+sentence_010,도움이 필요해요,도움 요청,ko-KR-InJoonNeural,clean,data/pronunciation/references/sentence_010/sentence_010_ko-KR-InJoonNeural_clean.wav
+sentence_010,도움이 필요해요,도움 요청,ko-KR-InJoonNeural,mild,data/pronunciation/references/sentence_010/sentence_010_ko-KR-InJoonNeural_mild.wav
+sentence_010,도움이 필요해요,도움 요청,ko-KR-InJoonNeural,room,data/pronunciation/references/sentence_010/sentence_010_ko-KR-InJoonNeural_room.wav

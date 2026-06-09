@@ -1,0 +1,321 @@
+sentence_id,text,voice,condition,path,source_dataset,record_id,speaker,location_name,text_code
+aa0,저 식당 음식이 정말 맛있나 봐요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00000.wav,deeply,sub100120a00000,a,AnechoicChamber,aa0
+aa0,저 식당 음식이 정말 맛있나 봐요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00000.wav,deeply,sub100121a00000,a,AnechoicChamber,aa0
+aa0,저 식당 음식이 정말 맛있나 봐요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00000.wav,deeply,sub100122a00000,a,AnechoicChamber,aa0
+aa0,저 식당 음식이 정말 맛있나 봐요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00000.wav,deeply,sub100100a00000,a,AirbnbStudio,aa0
+aa1,"아, 저기요. 삼계탕만 파는 식당인데 항상 사람들이 많아요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00001.wav,deeply,sub100120a00001,a,AnechoicChamber,aa1
+aa1,"아, 저기요. 삼계탕만 파는 식당인데 항상 사람들이 많아요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00001.wav,deeply,sub100121a00001,a,AnechoicChamber,aa1
+aa1,"아, 저기요. 삼계탕만 파는 식당인데 항상 사람들이 많아요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00001.wav,deeply,sub100122a00001,a,AnechoicChamber,aa1
+aa1,"아, 저기요. 삼계탕만 파는 식당인데 항상 사람들이 많아요.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00001.wav,deeply,sub100100a00001,a,AirbnbStudio,aa1
+aa2,우리 회사 근처에 저런 유명한 식당이 있었네요. 다음에 삼계탕 한번 먹으러 가야겠어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00002.wav,deeply,sub100120a00002,a,AnechoicChamber,aa2
+aa2,우리 회사 근처에 저런 유명한 식당이 있었네요. 다음에 삼계탕 한번 먹으러 가야겠어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00002.wav,deeply,sub100121a00002,a,AnechoicChamber,aa2
+aa2,우리 회사 근처에 저런 유명한 식당이 있었네요. 다음에 삼계탕 한번 먹으러 가야겠어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00002.wav,deeply,sub100122a00002,a,AnechoicChamber,aa2
+aa2,우리 회사 근처에 저런 유명한 식당이 있었네요. 다음에 삼계탕 한번 먹으러 가야겠어요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00002.wav,deeply,sub100100a00002,a,AirbnbStudio,aa2
+aa3,저 식당은 그날 준비한 걸 다 팔면 문을 닫아요. 그러니까 늦게 가면 못 드실 수도 있어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00003.wav,deeply,sub100120a00003,a,AnechoicChamber,aa3
+aa3,저 식당은 그날 준비한 걸 다 팔면 문을 닫아요. 그러니까 늦게 가면 못 드실 수도 있어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00003.wav,deeply,sub100121a00003,a,AnechoicChamber,aa3
+aa3,저 식당은 그날 준비한 걸 다 팔면 문을 닫아요. 그러니까 늦게 가면 못 드실 수도 있어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00003.wav,deeply,sub100122a00003,a,AnechoicChamber,aa3
+aa3,저 식당은 그날 준비한 걸 다 팔면 문을 닫아요. 그러니까 늦게 가면 못 드실 수도 있어요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00003.wav,deeply,sub100100a00003,a,AirbnbStudio,aa3
+ab0,여권을 만들어야 하는데요. 회사 일이 늦게 끝나서 갈 시간이 없어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00004.wav,deeply,sub100120a00004,a,AnechoicChamber,ab0
+ab0,여권을 만들어야 하는데요. 회사 일이 늦게 끝나서 갈 시간이 없어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00004.wav,deeply,sub100121a00004,a,AnechoicChamber,ab0
+ab0,여권을 만들어야 하는데요. 회사 일이 늦게 끝나서 갈 시간이 없어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00004.wav,deeply,sub100122a00004,a,AnechoicChamber,ab0
+ab0,여권을 만들어야 하는데요. 회사 일이 늦게 끝나서 갈 시간이 없어요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00004.wav,deeply,sub100100a00004,a,AirbnbStudio,ab0
+ab1,요즘은 주말에도 여권을 신청할 수 있는 곳이 있어요. 저도 주말에 거기 가서 여권을 만들었어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00005.wav,deeply,sub100120a00005,a,AnechoicChamber,ab1
+ab1,요즘은 주말에도 여권을 신청할 수 있는 곳이 있어요. 저도 주말에 거기 가서 여권을 만들었어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00005.wav,deeply,sub100121a00005,a,AnechoicChamber,ab1
+ab1,요즘은 주말에도 여권을 신청할 수 있는 곳이 있어요. 저도 주말에 거기 가서 여권을 만들었어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00005.wav,deeply,sub100122a00005,a,AnechoicChamber,ab1
+ab1,요즘은 주말에도 여권을 신청할 수 있는 곳이 있어요. 저도 주말에 거기 가서 여권을 만들었어요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00005.wav,deeply,sub100100a00005,a,AirbnbStudio,ab1
+ab2,그래요? 어디로 가면 돼요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00006.wav,deeply,sub100120a00006,a,AnechoicChamber,ab2
+ab2,그래요? 어디로 가면 돼요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00006.wav,deeply,sub100121a00006,a,AnechoicChamber,ab2
+ab2,그래요? 어디로 가면 돼요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00006.wav,deeply,sub100122a00006,a,AnechoicChamber,ab2
+ab2,그래요? 어디로 가면 돼요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00006.wav,deeply,sub100100a00006,a,AirbnbStudio,ab2
+ab3,만들어 주는 데가 여러 곳 있어요. 인터넷에서 찾아보고 가까운 곳으로 가세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00007.wav,deeply,sub100120a00007,a,AnechoicChamber,ab3
+ab3,만들어 주는 데가 여러 곳 있어요. 인터넷에서 찾아보고 가까운 곳으로 가세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00007.wav,deeply,sub100121a00007,a,AnechoicChamber,ab3
+ab3,만들어 주는 데가 여러 곳 있어요. 인터넷에서 찾아보고 가까운 곳으로 가세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00007.wav,deeply,sub100122a00007,a,AnechoicChamber,ab3
+ab3,만들어 주는 데가 여러 곳 있어요. 인터넷에서 찾아보고 가까운 곳으로 가세요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00007.wav,deeply,sub100100a00007,a,AirbnbStudio,ab3
+ac0,저 다음 주부터 백화점 안에 있는 옷 가게에서 일하기로 했어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00008.wav,deeply,sub100120a00008,a,AnechoicChamber,ac0
+ac0,저 다음 주부터 백화점 안에 있는 옷 가게에서 일하기로 했어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00008.wav,deeply,sub100121a00008,a,AnechoicChamber,ac0
+ac0,저 다음 주부터 백화점 안에 있는 옷 가게에서 일하기로 했어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00008.wav,deeply,sub100122a00008,a,AnechoicChamber,ac0
+ac0,저 다음 주부터 백화점 안에 있는 옷 가게에서 일하기로 했어요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00008.wav,deeply,sub100100a00008,a,AirbnbStudio,ac0
+ac1,잘 됐네요. 그런데 매일 일해요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00009.wav,deeply,sub100120a00009,a,AnechoicChamber,ac1
+ac1,잘 됐네요. 그런데 매일 일해요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00009.wav,deeply,sub100121a00009,a,AnechoicChamber,ac1
+ac1,잘 됐네요. 그런데 매일 일해요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00009.wav,deeply,sub100122a00009,a,AnechoicChamber,ac1
+ac1,잘 됐네요. 그런데 매일 일해요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00009.wav,deeply,sub100100a00009,a,AirbnbStudio,ac1
+ac2,아니요. 월요일부터 금요일까지 하루에 세 시간씩만 하면 돼요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00010.wav,deeply,sub100120a00010,a,AnechoicChamber,ac2
+ac2,아니요. 월요일부터 금요일까지 하루에 세 시간씩만 하면 돼요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00010.wav,deeply,sub100121a00010,a,AnechoicChamber,ac2
+ac2,아니요. 월요일부터 금요일까지 하루에 세 시간씩만 하면 돼요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00010.wav,deeply,sub100122a00010,a,AnechoicChamber,ac2
+ac2,아니요. 월요일부터 금요일까지 하루에 세 시간씩만 하면 돼요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00010.wav,deeply,sub100100a00010,a,AirbnbStudio,ac2
+ac3,공부와 일을 같이 하려면 힘들겠어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00011.wav,deeply,sub100120a00011,a,AnechoicChamber,ac3
+ac3,공부와 일을 같이 하려면 힘들겠어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00011.wav,deeply,sub100121a00011,a,AnechoicChamber,ac3
+ac3,공부와 일을 같이 하려면 힘들겠어요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00011.wav,deeply,sub100122a00011,a,AnechoicChamber,ac3
+ac3,공부와 일을 같이 하려면 힘들겠어요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00011.wav,deeply,sub100100a00011,a,AirbnbStudio,ac3
+ad0,기분이 좋아 보이시는데 뭐 즐거운 일 있으세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00012.wav,deeply,sub100120a00012,a,AnechoicChamber,ad0
+ad0,기분이 좋아 보이시는데 뭐 즐거운 일 있으세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00012.wav,deeply,sub100121a00012,a,AnechoicChamber,ad0
+ad0,기분이 좋아 보이시는데 뭐 즐거운 일 있으세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00012.wav,deeply,sub100122a00012,a,AnechoicChamber,ad0
+ad0,기분이 좋아 보이시는데 뭐 즐거운 일 있으세요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00012.wav,deeply,sub100100a00012,a,AirbnbStudio,ad0
+ad1,그래 보여요? 요즘 병원에 봉사하러 다니거든요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00013.wav,deeply,sub100120a00013,a,AnechoicChamber,ad1
+ad1,그래 보여요? 요즘 병원에 봉사하러 다니거든요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00013.wav,deeply,sub100121a00013,a,AnechoicChamber,ad1
+ad1,그래 보여요? 요즘 병원에 봉사하러 다니거든요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00013.wav,deeply,sub100122a00013,a,AnechoicChamber,ad1
+ad1,그래 보여요? 요즘 병원에 봉사하러 다니거든요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00013.wav,deeply,sub100100a00013,a,AirbnbStudio,ad1
+ad2,그러세요? 다니신 지는 오래되셨어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00014.wav,deeply,sub100120a00014,a,AnechoicChamber,ad2
+ad2,그러세요? 다니신 지는 오래되셨어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00014.wav,deeply,sub100121a00014,a,AnechoicChamber,ad2
+ad2,그러세요? 다니신 지는 오래되셨어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00014.wav,deeply,sub100122a00014,a,AnechoicChamber,ad2
+ad2,그러세요? 다니신 지는 오래되셨어요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00014.wav,deeply,sub100100a00014,a,AirbnbStudio,ad2
+ad3,한 서너 달쯤 됐어요. 전 어린이 장애 환자들을 맡았는데 아이들과 같이 그림도 그리고 동화책도 읽어 주고 그래요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00015.wav,deeply,sub100120a00015,a,AnechoicChamber,ad3
+ad3,한 서너 달쯤 됐어요. 전 어린이 장애 환자들을 맡았는데 아이들과 같이 그림도 그리고 동화책도 읽어 주고 그래요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00015.wav,deeply,sub100121a00015,a,AnechoicChamber,ad3
+ad3,한 서너 달쯤 됐어요. 전 어린이 장애 환자들을 맡았는데 아이들과 같이 그림도 그리고 동화책도 읽어 주고 그래요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00015.wav,deeply,sub100122a00015,a,AnechoicChamber,ad3
+ad3,한 서너 달쯤 됐어요. 전 어린이 장애 환자들을 맡았는데 아이들과 같이 그림도 그리고 동화책도 읽어 주고 그래요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00015.wav,deeply,sub100100a00015,a,AirbnbStudio,ad3
+ad4,저도 항상 봉사를 하고 싶었는데 같이 가도 될까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00016.wav,deeply,sub100120a00016,a,AnechoicChamber,ad4
+ad4,저도 항상 봉사를 하고 싶었는데 같이 가도 될까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00016.wav,deeply,sub100121a00016,a,AnechoicChamber,ad4
+ad4,저도 항상 봉사를 하고 싶었는데 같이 가도 될까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00016.wav,deeply,sub100122a00016,a,AnechoicChamber,ad4
+ad4,저도 항상 봉사를 하고 싶었는데 같이 가도 될까요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00016.wav,deeply,sub100100a00016,a,AirbnbStudio,ad4
+ad5,그럼요. 언제 가실래요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00017.wav,deeply,sub100120a00017,a,AnechoicChamber,ad5
+ad5,그럼요. 언제 가실래요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00017.wav,deeply,sub100121a00017,a,AnechoicChamber,ad5
+ad5,그럼요. 언제 가실래요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00017.wav,deeply,sub100122a00017,a,AnechoicChamber,ad5
+ad5,그럼요. 언제 가실래요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00017.wav,deeply,sub100100a00017,a,AirbnbStudio,ad5
+ae0,"네, 홈쇼핑입니다. 무엇을 주문하시겠습니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00018.wav,deeply,sub100120a00018,a,AnechoicChamber,ae0
+ae0,"네, 홈쇼핑입니다. 무엇을 주문하시겠습니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00018.wav,deeply,sub100121a00018,a,AnechoicChamber,ae0
+ae0,"네, 홈쇼핑입니다. 무엇을 주문하시겠습니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00018.wav,deeply,sub100122a00018,a,AnechoicChamber,ae0
+ae0,"네, 홈쇼핑입니다. 무엇을 주문하시겠습니까?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00018.wav,deeply,sub100100a00018,a,AirbnbStudio,ae0
+ae1,"지금 방송 되고 있는 겨울 이불을 구입하려고 하는데요. 하나는 저희가 쓰고, 다른 거는 시골에 계신 어머니한테 보낼 거예요. 따로 보낼 수 있죠?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00019.wav,deeply,sub100120a00019,a,AnechoicChamber,ae1
+ae1,"지금 방송 되고 있는 겨울 이불을 구입하려고 하는데요. 하나는 저희가 쓰고, 다른 거는 시골에 계신 어머니한테 보낼 거예요. 따로 보낼 수 있죠?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00019.wav,deeply,sub100121a00019,a,AnechoicChamber,ae1
+ae1,"지금 방송 되고 있는 겨울 이불을 구입하려고 하는데요. 하나는 저희가 쓰고, 다른 거는 시골에 계신 어머니한테 보낼 거예요. 따로 보낼 수 있죠?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00019.wav,deeply,sub100122a00019,a,AnechoicChamber,ae1
+ae1,"지금 방송 되고 있는 겨울 이불을 구입하려고 하는데요. 하나는 저희가 쓰고, 다른 거는 시골에 계신 어머니한테 보낼 거예요. 따로 보낼 수 있죠?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00019.wav,deeply,sub100100a00019,a,AirbnbStudio,ae1
+ae2,"네, 물론입니다. 지불은 어떻게 하실 건가요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00020.wav,deeply,sub100120a00020,a,AnechoicChamber,ae2
+ae2,"네, 물론입니다. 지불은 어떻게 하실 건가요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00020.wav,deeply,sub100121a00020,a,AnechoicChamber,ae2
+ae2,"네, 물론입니다. 지불은 어떻게 하실 건가요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00020.wav,deeply,sub100122a00020,a,AnechoicChamber,ae2
+ae2,"네, 물론입니다. 지불은 어떻게 하실 건가요?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00020.wav,deeply,sub100100a00020,a,AirbnbStudio,ae2
+ae3,카드로 할게요. 그런데 언제쯤 받을 수 있어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00021.wav,deeply,sub100120a00021,a,AnechoicChamber,ae3
+ae3,카드로 할게요. 그런데 언제쯤 받을 수 있어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00021.wav,deeply,sub100121a00021,a,AnechoicChamber,ae3
+ae3,카드로 할게요. 그런데 언제쯤 받을 수 있어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00021.wav,deeply,sub100122a00021,a,AnechoicChamber,ae3
+ae3,카드로 할게요. 그런데 언제쯤 받을 수 있어요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00021.wav,deeply,sub100100a00021,a,AirbnbStudio,ae3
+ae4,3일 안으로 배달해 드리겠습니다. 받으실 곳 주소를 불러 주시겠습니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00022.wav,deeply,sub100120a00022,a,AnechoicChamber,ae4
+ae4,3일 안으로 배달해 드리겠습니다. 받으실 곳 주소를 불러 주시겠습니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00022.wav,deeply,sub100121a00022,a,AnechoicChamber,ae4
+ae4,3일 안으로 배달해 드리겠습니다. 받으실 곳 주소를 불러 주시겠습니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00022.wav,deeply,sub100122a00022,a,AnechoicChamber,ae4
+ae4,3일 안으로 배달해 드리겠습니다. 받으실 곳 주소를 불러 주시겠습니까?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00022.wav,deeply,sub100100a00022,a,AirbnbStudio,ae4
+ae5,네. 잠깐만요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00023.wav,deeply,sub100120a00023,a,AnechoicChamber,ae5
+ae5,네. 잠깐만요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00023.wav,deeply,sub100121a00023,a,AnechoicChamber,ae5
+ae5,네. 잠깐만요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00023.wav,deeply,sub100122a00023,a,AnechoicChamber,ae5
+ae5,네. 잠깐만요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00023.wav,deeply,sub100100a00023,a,AirbnbStudio,ae5
+af0,이번에 대학생을 위한 과학 교실을 여신다고 들었습니다. 대학생을 위한 것은 처음인것 같은데요. 어떤 내용인가요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00024.wav,deeply,sub100120a00024,a,AnechoicChamber,af0
+af0,이번에 대학생을 위한 과학 교실을 여신다고 들었습니다. 대학생을 위한 것은 처음인것 같은데요. 어떤 내용인가요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00024.wav,deeply,sub100121a00024,a,AnechoicChamber,af0
+af0,이번에 대학생을 위한 과학 교실을 여신다고 들었습니다. 대학생을 위한 것은 처음인것 같은데요. 어떤 내용인가요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00024.wav,deeply,sub100122a00024,a,AnechoicChamber,af0
+af0,이번에 대학생을 위한 과학 교실을 여신다고 들었습니다. 대학생을 위한 것은 처음인것 같은데요. 어떤 내용인가요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00024.wav,deeply,sub100100a00024,a,AirbnbStudio,af0
+af1,학생들에게 재미있는 주제를 정해서 마음껏 실험할 수 있게 하려고 합니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00025.wav,deeply,sub100120a00025,a,AnechoicChamber,af1
+af1,학생들에게 재미있는 주제를 정해서 마음껏 실험할 수 있게 하려고 합니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00025.wav,deeply,sub100121a00025,a,AnechoicChamber,af1
+af1,학생들에게 재미있는 주제를 정해서 마음껏 실험할 수 있게 하려고 합니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00025.wav,deeply,sub100122a00025,a,AnechoicChamber,af1
+af1,학생들에게 재미있는 주제를 정해서 마음껏 실험할 수 있게 하려고 합니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00025.wav,deeply,sub100100a00025,a,AirbnbStudio,af1
+af2,네. 학생들에게는 정말 반가운 소식이겠네요. 구체적으로 어떤 실험을 하게 됩니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00026.wav,deeply,sub100120a00026,a,AnechoicChamber,af2
+af2,네. 학생들에게는 정말 반가운 소식이겠네요. 구체적으로 어떤 실험을 하게 됩니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00026.wav,deeply,sub100121a00026,a,AnechoicChamber,af2
+af2,네. 학생들에게는 정말 반가운 소식이겠네요. 구체적으로 어떤 실험을 하게 됩니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00026.wav,deeply,sub100122a00026,a,AnechoicChamber,af2
+af2,네. 학생들에게는 정말 반가운 소식이겠네요. 구체적으로 어떤 실험을 하게 됩니까?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00026.wav,deeply,sub100100a00026,a,AirbnbStudio,af2
+af3,그럼 지금 좀 보여 드리죠.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00027.wav,deeply,sub100120a00027,a,AnechoicChamber,af3
+af3,그럼 지금 좀 보여 드리죠.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00027.wav,deeply,sub100121a00027,a,AnechoicChamber,af3
+af3,그럼 지금 좀 보여 드리죠.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00027.wav,deeply,sub100122a00027,a,AnechoicChamber,af3
+af3,그럼 지금 좀 보여 드리죠.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00027.wav,deeply,sub100100a00027,a,AirbnbStudio,af3
+ag0,다음으로 오늘 대회의 심사를 맡아 주실 분을 소개하겠습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00028.wav,deeply,sub100120a00028,a,AnechoicChamber,ag0
+ag0,다음으로 오늘 대회의 심사를 맡아 주실 분을 소개하겠습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00028.wav,deeply,sub100121a00028,a,AnechoicChamber,ag0
+ag0,다음으로 오늘 대회의 심사를 맡아 주실 분을 소개하겠습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00028.wav,deeply,sub100122a00028,a,AnechoicChamber,ag0
+ag0,다음으로 오늘 대회의 심사를 맡아 주실 분을 소개하겠습니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00028.wav,deeply,sub100100a00028,a,AirbnbStudio,ag0
+ag1,안녕하십니까? 이런 이름 높은 대회에 심사를 맡게 돼 영광입니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00029.wav,deeply,sub100120a00029,a,AnechoicChamber,ag1
+ag1,안녕하십니까? 이런 이름 높은 대회에 심사를 맡게 돼 영광입니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00029.wav,deeply,sub100121a00029,a,AnechoicChamber,ag1
+ag1,안녕하십니까? 이런 이름 높은 대회에 심사를 맡게 돼 영광입니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00029.wav,deeply,sub100122a00029,a,AnechoicChamber,ag1
+ag1,안녕하십니까? 이런 이름 높은 대회에 심사를 맡게 돼 영광입니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00029.wav,deeply,sub100100a00029,a,AirbnbStudio,ag1
+ag2,네. 오늘 심사에서 어떤 부분에 가장 중점을 둘 생각이십니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00030.wav,deeply,sub100120a00030,a,AnechoicChamber,ag2
+ag2,네. 오늘 심사에서 어떤 부분에 가장 중점을 둘 생각이십니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00030.wav,deeply,sub100121a00030,a,AnechoicChamber,ag2
+ag2,네. 오늘 심사에서 어떤 부분에 가장 중점을 둘 생각이십니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00030.wav,deeply,sub100122a00030,a,AnechoicChamber,ag2
+ag2,네. 오늘 심사에서 어떤 부분에 가장 중점을 둘 생각이십니까?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00030.wav,deeply,sub100100a00030,a,AirbnbStudio,ag2
+ag3,무엇보다 작품의 창의성이 가장 중요하다고 봅니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00031.wav,deeply,sub100120a00031,a,AnechoicChamber,ag3
+ag3,무엇보다 작품의 창의성이 가장 중요하다고 봅니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00031.wav,deeply,sub100121a00031,a,AnechoicChamber,ag3
+ag3,무엇보다 작품의 창의성이 가장 중요하다고 봅니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00031.wav,deeply,sub100122a00031,a,AnechoicChamber,ag3
+ag3,무엇보다 작품의 창의성이 가장 중요하다고 봅니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00031.wav,deeply,sub100100a00031,a,AirbnbStudio,ag3
+ah0,저 같은 신입 사원도 큰돈을 장만할 수 있을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00032.wav,deeply,sub100120a00032,a,AnechoicChamber,ah0
+ah0,저 같은 신입 사원도 큰돈을 장만할 수 있을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00032.wav,deeply,sub100121a00032,a,AnechoicChamber,ah0
+ah0,저 같은 신입 사원도 큰돈을 장만할 수 있을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00032.wav,deeply,sub100122a00032,a,AnechoicChamber,ah0
+ah0,저 같은 신입 사원도 큰돈을 장만할 수 있을까요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00032.wav,deeply,sub100100a00032,a,AirbnbStudio,ah0
+ah1,현재 저축은 하고 계세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00033.wav,deeply,sub100120a00033,a,AnechoicChamber,ah1
+ah1,현재 저축은 하고 계세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00033.wav,deeply,sub100121a00033,a,AnechoicChamber,ah1
+ah1,현재 저축은 하고 계세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00033.wav,deeply,sub100122a00033,a,AnechoicChamber,ah1
+ah1,현재 저축은 하고 계세요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00033.wav,deeply,sub100100a00033,a,AirbnbStudio,ah1
+ah2,아니요. 월급 대부분을 생활비로 쓰느라 저축은 생각도 못 해요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00034.wav,deeply,sub100120a00034,a,AnechoicChamber,ah2
+ah2,아니요. 월급 대부분을 생활비로 쓰느라 저축은 생각도 못 해요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00034.wav,deeply,sub100121a00034,a,AnechoicChamber,ah2
+ah2,아니요. 월급 대부분을 생활비로 쓰느라 저축은 생각도 못 해요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00034.wav,deeply,sub100122a00034,a,AnechoicChamber,ah2
+ah2,아니요. 월급 대부분을 생활비로 쓰느라 저축은 생각도 못 해요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00034.wav,deeply,sub100100a00034,a,AirbnbStudio,ah2
+ah3,정말 큰돈을 만들고 싶다면 지금 당장 천 원이라도 저축하세요. 그리고 꾸준히 저축해 나가면 머지않아 큰돈을 만들 수 있습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00035.wav,deeply,sub100120a00035,a,AnechoicChamber,ah3
+ah3,정말 큰돈을 만들고 싶다면 지금 당장 천 원이라도 저축하세요. 그리고 꾸준히 저축해 나가면 머지않아 큰돈을 만들 수 있습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00035.wav,deeply,sub100121a00035,a,AnechoicChamber,ah3
+ah3,정말 큰돈을 만들고 싶다면 지금 당장 천 원이라도 저축하세요. 그리고 꾸준히 저축해 나가면 머지않아 큰돈을 만들 수 있습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00035.wav,deeply,sub100122a00035,a,AnechoicChamber,ah3
+ah3,정말 큰돈을 만들고 싶다면 지금 당장 천 원이라도 저축하세요. 그리고 꾸준히 저축해 나가면 머지않아 큰돈을 만들 수 있습니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00035.wav,deeply,sub100100a00035,a,AirbnbStudio,ah3
+ai0,"필기시험은 늘 합격하는데, 면접만 보면 꼭 떨어지네.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00036.wav,deeply,sub100120a00036,a,AnechoicChamber,ai0
+ai0,"필기시험은 늘 합격하는데, 면접만 보면 꼭 떨어지네.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00036.wav,deeply,sub100121a00036,a,AnechoicChamber,ai0
+ai0,"필기시험은 늘 합격하는데, 면접만 보면 꼭 떨어지네.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00036.wav,deeply,sub100122a00036,a,AnechoicChamber,ai0
+ai0,"필기시험은 늘 합격하는데, 면접만 보면 꼭 떨어지네.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00036.wav,deeply,sub100100a00036,a,AirbnbStudio,ai0
+ai1,면접에서 뭔가 이상하게 하는 거 아냐?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00037.wav,deeply,sub100120a00037,a,AnechoicChamber,ai1
+ai1,면접에서 뭔가 이상하게 하는 거 아냐?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00037.wav,deeply,sub100121a00037,a,AnechoicChamber,ai1
+ai1,면접에서 뭔가 이상하게 하는 거 아냐?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00037.wav,deeply,sub100122a00037,a,AnechoicChamber,ai1
+ai1,면접에서 뭔가 이상하게 하는 거 아냐?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00037.wav,deeply,sub100100a00037,a,AirbnbStudio,ai1
+ai2,이상하게 하기는. 모범 답안을 외워서 대답하고 있는데.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00038.wav,deeply,sub100120a00038,a,AnechoicChamber,ai2
+ai2,이상하게 하기는. 모범 답안을 외워서 대답하고 있는데.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00038.wav,deeply,sub100121a00038,a,AnechoicChamber,ai2
+ai2,이상하게 하기는. 모범 답안을 외워서 대답하고 있는데.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00038.wav,deeply,sub100122a00038,a,AnechoicChamber,ai2
+ai2,이상하게 하기는. 모범 답안을 외워서 대답하고 있는데.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00038.wav,deeply,sub100100a00038,a,AirbnbStudio,ai2
+ai3,그럴 줄 알았어. 요즘 면접관들은 그런 틀에 박힌 표현은 싫어한대.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00039.wav,deeply,sub100120a00039,a,AnechoicChamber,ai3
+ai3,그럴 줄 알았어. 요즘 면접관들은 그런 틀에 박힌 표현은 싫어한대.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00039.wav,deeply,sub100121a00039,a,AnechoicChamber,ai3
+ai3,그럴 줄 알았어. 요즘 면접관들은 그런 틀에 박힌 표현은 싫어한대.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00039.wav,deeply,sub100122a00039,a,AnechoicChamber,ai3
+ai3,그럴 줄 알았어. 요즘 면접관들은 그런 틀에 박힌 표현은 싫어한대.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00039.wav,deeply,sub100100a00039,a,AirbnbStudio,ai3
+ai4,그래? 그래서 계속 떨어진 건가? 앞으로는 좀 바꿔야겠다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00040.wav,deeply,sub100120a00040,a,AnechoicChamber,ai4
+ai4,그래? 그래서 계속 떨어진 건가? 앞으로는 좀 바꿔야겠다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00040.wav,deeply,sub100121a00040,a,AnechoicChamber,ai4
+ai4,그래? 그래서 계속 떨어진 건가? 앞으로는 좀 바꿔야겠다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00040.wav,deeply,sub100122a00040,a,AnechoicChamber,ai4
+ai4,그래? 그래서 계속 떨어진 건가? 앞으로는 좀 바꿔야겠다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00040.wav,deeply,sub100100a00040,a,AirbnbStudio,ai4
+aj0,안녕하세요? 신입 사원인데 제가 아직 사원증을 못 받아서요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00041.wav,deeply,sub100120a00041,a,AnechoicChamber,aj0
+aj0,안녕하세요? 신입 사원인데 제가 아직 사원증을 못 받아서요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00041.wav,deeply,sub100121a00041,a,AnechoicChamber,aj0
+aj0,안녕하세요? 신입 사원인데 제가 아직 사원증을 못 받아서요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00041.wav,deeply,sub100122a00041,a,AnechoicChamber,aj0
+aj0,안녕하세요? 신입 사원인데 제가 아직 사원증을 못 받아서요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00041.wav,deeply,sub100100a00041,a,AirbnbStudio,aj0
+aj1,네. 신입 사원의 사원증은 2주 후에 나옵니다. 조금 더 기다리세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00042.wav,deeply,sub100120a00042,a,AnechoicChamber,aj1
+aj1,네. 신입 사원의 사원증은 2주 후에 나옵니다. 조금 더 기다리세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00042.wav,deeply,sub100121a00042,a,AnechoicChamber,aj1
+aj1,네. 신입 사원의 사원증은 2주 후에 나옵니다. 조금 더 기다리세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00042.wav,deeply,sub100122a00042,a,AnechoicChamber,aj1
+aj1,네. 신입 사원의 사원증은 2주 후에 나옵니다. 조금 더 기다리세요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00042.wav,deeply,sub100100a00042,a,AirbnbStudio,aj1
+aj2,"그럼, 지금은 자료실을 이용할 수 없나요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00043.wav,deeply,sub100120a00043,a,AnechoicChamber,aj2
+aj2,"그럼, 지금은 자료실을 이용할 수 없나요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00043.wav,deeply,sub100121a00043,a,AnechoicChamber,aj2
+aj2,"그럼, 지금은 자료실을 이용할 수 없나요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00043.wav,deeply,sub100122a00043,a,AnechoicChamber,aj2
+aj2,"그럼, 지금은 자료실을 이용할 수 없나요?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00043.wav,deeply,sub100100a00043,a,AirbnbStudio,aj2
+aj3,"아니요, 사원 번호를 말씀하시면 자료실 출입이 가능하고 자료를 빌릴 수도 있습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00044.wav,deeply,sub100120a00044,a,AnechoicChamber,aj3
+aj3,"아니요, 사원 번호를 말씀하시면 자료실 출입이 가능하고 자료를 빌릴 수도 있습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00044.wav,deeply,sub100121a00044,a,AnechoicChamber,aj3
+aj3,"아니요, 사원 번호를 말씀하시면 자료실 출입이 가능하고 자료를 빌릴 수도 있습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00044.wav,deeply,sub100122a00044,a,AnechoicChamber,aj3
+aj3,"아니요, 사원 번호를 말씀하시면 자료실 출입이 가능하고 자료를 빌릴 수도 있습니다.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00044.wav,deeply,sub100100a00044,a,AirbnbStudio,aj3
+ak0,"자, 이쪽으로 오세요. 오늘은 이 상자들을 창고 안으로 옮기는 작업을 하겠습니다. 상자가 보기보다 무거우니까 조심하세요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00045.wav,deeply,sub100120a00045,a,AnechoicChamber,ak0
+ak0,"자, 이쪽으로 오세요. 오늘은 이 상자들을 창고 안으로 옮기는 작업을 하겠습니다. 상자가 보기보다 무거우니까 조심하세요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00045.wav,deeply,sub100121a00045,a,AnechoicChamber,ak0
+ak0,"자, 이쪽으로 오세요. 오늘은 이 상자들을 창고 안으로 옮기는 작업을 하겠습니다. 상자가 보기보다 무거우니까 조심하세요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00045.wav,deeply,sub100122a00045,a,AnechoicChamber,ak0
+ak0,"자, 이쪽으로 오세요. 오늘은 이 상자들을 창고 안으로 옮기는 작업을 하겠습니다. 상자가 보기보다 무거우니까 조심하세요.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00045.wav,deeply,sub100100a00045,a,AirbnbStudio,ak0
+ak1,여기에 있는 이 상자를 모두 창고 안으로 옮길까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00046.wav,deeply,sub100120a00046,a,AnechoicChamber,ak1
+ak1,여기에 있는 이 상자를 모두 창고 안으로 옮길까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00046.wav,deeply,sub100121a00046,a,AnechoicChamber,ak1
+ak1,여기에 있는 이 상자를 모두 창고 안으로 옮길까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00046.wav,deeply,sub100122a00046,a,AnechoicChamber,ak1
+ak1,여기에 있는 이 상자를 모두 창고 안으로 옮길까요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00046.wav,deeply,sub100100a00046,a,AirbnbStudio,ak1
+ak2,네. 큰 상자들은 창고 안쪽으로 가져가시고 작은 상자들은 창고 왼쪽에 있는 선반에 쌓아 주세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00047.wav,deeply,sub100120a00047,a,AnechoicChamber,ak2
+ak2,네. 큰 상자들은 창고 안쪽으로 가져가시고 작은 상자들은 창고 왼쪽에 있는 선반에 쌓아 주세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00047.wav,deeply,sub100121a00047,a,AnechoicChamber,ak2
+ak2,네. 큰 상자들은 창고 안쪽으로 가져가시고 작은 상자들은 창고 왼쪽에 있는 선반에 쌓아 주세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00047.wav,deeply,sub100122a00047,a,AnechoicChamber,ak2
+ak2,네. 큰 상자들은 창고 안쪽으로 가져가시고 작은 상자들은 창고 왼쪽에 있는 선반에 쌓아 주세요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00047.wav,deeply,sub100100a00047,a,AirbnbStudio,ak2
+ak3,알겠습니다. 조심해서 일하겠습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00048.wav,deeply,sub100120a00048,a,AnechoicChamber,ak3
+ak3,알겠습니다. 조심해서 일하겠습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00048.wav,deeply,sub100121a00048,a,AnechoicChamber,ak3
+ak3,알겠습니다. 조심해서 일하겠습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00048.wav,deeply,sub100122a00048,a,AnechoicChamber,ak3
+ak3,알겠습니다. 조심해서 일하겠습니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00048.wav,deeply,sub100100a00048,a,AirbnbStudio,ak3
+al0,"박사님, 요즘 서울의 인구가 어떻게 달라졌는지 말씀해주시겠습니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00049.wav,deeply,sub100120a00049,a,AnechoicChamber,al0
+al0,"박사님, 요즘 서울의 인구가 어떻게 달라졌는지 말씀해주시겠습니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00049.wav,deeply,sub100121a00049,a,AnechoicChamber,al0
+al0,"박사님, 요즘 서울의 인구가 어떻게 달라졌는지 말씀해주시겠습니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00049.wav,deeply,sub100122a00049,a,AnechoicChamber,al0
+al0,"박사님, 요즘 서울의 인구가 어떻게 달라졌는지 말씀해주시겠습니까?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00049.wav,deeply,sub100100a00049,a,AirbnbStudio,al0
+al1,네. 그동안 늘어나기만 하던 서울의 인구가 년 전부터 줄어들기 시작했습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00050.wav,deeply,sub100120a00050,a,AnechoicChamber,al1
+al1,네. 그동안 늘어나기만 하던 서울의 인구가 년 전부터 줄어들기 시작했습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00050.wav,deeply,sub100121a00050,a,AnechoicChamber,al1
+al1,네. 그동안 늘어나기만 하던 서울의 인구가 년 전부터 줄어들기 시작했습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00050.wav,deeply,sub100122a00050,a,AnechoicChamber,al1
+al1,네. 그동안 늘어나기만 하던 서울의 인구가 년 전부터 줄어들기 시작했습니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00050.wav,deeply,sub100100a00050,a,AirbnbStudio,al1
+al2,"그런데 박사님, 인구가 줄었다고 하셨는데 제 생각에 서울은 예전보다 더 복잡한 것 같습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00051.wav,deeply,sub100120a00051,a,AnechoicChamber,al2
+al2,"그런데 박사님, 인구가 줄었다고 하셨는데 제 생각에 서울은 예전보다 더 복잡한 것 같습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00051.wav,deeply,sub100121a00051,a,AnechoicChamber,al2
+al2,"그런데 박사님, 인구가 줄었다고 하셨는데 제 생각에 서울은 예전보다 더 복잡한 것 같습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00051.wav,deeply,sub100122a00051,a,AnechoicChamber,al2
+al2,"그런데 박사님, 인구가 줄었다고 하셨는데 제 생각에 서울은 예전보다 더 복잡한 것 같습니다.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00051.wav,deeply,sub100100a00051,a,AirbnbStudio,al2
+al3,거주 인구는 줄었습니다 그렇지만 서울로 출퇴근하는 인구는 줄어들지 않았습니다. 그래서 실제적으로 인구는 차이가 나지 않는 거죠.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00052.wav,deeply,sub100120a00052,a,AnechoicChamber,al3
+al3,거주 인구는 줄었습니다 그렇지만 서울로 출퇴근하는 인구는 줄어들지 않았습니다. 그래서 실제적으로 인구는 차이가 나지 않는 거죠.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00052.wav,deeply,sub100121a00052,a,AnechoicChamber,al3
+al3,거주 인구는 줄었습니다 그렇지만 서울로 출퇴근하는 인구는 줄어들지 않았습니다. 그래서 실제적으로 인구는 차이가 나지 않는 거죠.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00052.wav,deeply,sub100122a00052,a,AnechoicChamber,al3
+al3,거주 인구는 줄었습니다 그렇지만 서울로 출퇴근하는 인구는 줄어들지 않았습니다. 그래서 실제적으로 인구는 차이가 나지 않는 거죠.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00052.wav,deeply,sub100100a00052,a,AirbnbStudio,al3
+am0,어제 임원 회의에서 퇴근 시간을 정확하게 지키자는 이야기가 있었습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00053.wav,deeply,sub100120a00053,a,AnechoicChamber,am0
+am0,어제 임원 회의에서 퇴근 시간을 정확하게 지키자는 이야기가 있었습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00053.wav,deeply,sub100121a00053,a,AnechoicChamber,am0
+am0,어제 임원 회의에서 퇴근 시간을 정확하게 지키자는 이야기가 있었습니다.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00053.wav,deeply,sub100122a00053,a,AnechoicChamber,am0
+am0,어제 임원 회의에서 퇴근 시간을 정확하게 지키자는 이야기가 있었습니다.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00053.wav,deeply,sub100100a00053,a,AirbnbStudio,am0
+am1,"맞습니다, 과장님. 사실 모두들 조금씩 늦게 퇴근하곤 하는데 그 시간에 일을 제대로 하는 경우는 없다고 생각합니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00054.wav,deeply,sub100120a00054,a,AnechoicChamber,am1
+am1,"맞습니다, 과장님. 사실 모두들 조금씩 늦게 퇴근하곤 하는데 그 시간에 일을 제대로 하는 경우는 없다고 생각합니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00054.wav,deeply,sub100121a00054,a,AnechoicChamber,am1
+am1,"맞습니다, 과장님. 사실 모두들 조금씩 늦게 퇴근하곤 하는데 그 시간에 일을 제대로 하는 경우는 없다고 생각합니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00054.wav,deeply,sub100122a00054,a,AnechoicChamber,am1
+am1,"맞습니다, 과장님. 사실 모두들 조금씩 늦게 퇴근하곤 하는데 그 시간에 일을 제대로 하는 경우는 없다고 생각합니다.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00054.wav,deeply,sub100100a00054,a,AirbnbStudio,am1
+am2,그렇지요. 근무 시간에 열심히 일하고 퇴근 시간을 정확하게 지키는 게 좋지요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00055.wav,deeply,sub100120a00055,a,AnechoicChamber,am2
+am2,그렇지요. 근무 시간에 열심히 일하고 퇴근 시간을 정확하게 지키는 게 좋지요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00055.wav,deeply,sub100121a00055,a,AnechoicChamber,am2
+am2,그렇지요. 근무 시간에 열심히 일하고 퇴근 시간을 정확하게 지키는 게 좋지요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00055.wav,deeply,sub100122a00055,a,AnechoicChamber,am2
+am2,그렇지요. 근무 시간에 열심히 일하고 퇴근 시간을 정확하게 지키는 게 좋지요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00055.wav,deeply,sub100100a00055,a,AirbnbStudio,am2
+am3,"그럼, 일주일에 한 번 정도 퇴근 시간 분 후에 사무실 불이 자동으로 꺼지게 하면 어떨까요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00056.wav,deeply,sub100120a00056,a,AnechoicChamber,am3
+am3,"그럼, 일주일에 한 번 정도 퇴근 시간 분 후에 사무실 불이 자동으로 꺼지게 하면 어떨까요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00056.wav,deeply,sub100121a00056,a,AnechoicChamber,am3
+am3,"그럼, 일주일에 한 번 정도 퇴근 시간 분 후에 사무실 불이 자동으로 꺼지게 하면 어떨까요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00056.wav,deeply,sub100122a00056,a,AnechoicChamber,am3
+am3,"그럼, 일주일에 한 번 정도 퇴근 시간 분 후에 사무실 불이 자동으로 꺼지게 하면 어떨까요?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00056.wav,deeply,sub100100a00056,a,AirbnbStudio,am3
+am4,"그거 재미있는 생각이네요. 그럼, 구체적인 실천 방법에 대해 좀 더 의견을 모아서 회사에 건의해 보도록 합시다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00057.wav,deeply,sub100120a00057,a,AnechoicChamber,am4
+am4,"그거 재미있는 생각이네요. 그럼, 구체적인 실천 방법에 대해 좀 더 의견을 모아서 회사에 건의해 보도록 합시다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00057.wav,deeply,sub100121a00057,a,AnechoicChamber,am4
+am4,"그거 재미있는 생각이네요. 그럼, 구체적인 실천 방법에 대해 좀 더 의견을 모아서 회사에 건의해 보도록 합시다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00057.wav,deeply,sub100122a00057,a,AnechoicChamber,am4
+am4,"그거 재미있는 생각이네요. 그럼, 구체적인 실천 방법에 대해 좀 더 의견을 모아서 회사에 건의해 보도록 합시다.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00057.wav,deeply,sub100100a00057,a,AirbnbStudio,am4
+an0,내일이 어머니 생신인데 어떤 선물을 사는 게 좋을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00058.wav,deeply,sub100120a00058,a,AnechoicChamber,an0
+an0,내일이 어머니 생신인데 어떤 선물을 사는 게 좋을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00058.wav,deeply,sub100121a00058,a,AnechoicChamber,an0
+an0,내일이 어머니 생신인데 어떤 선물을 사는 게 좋을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00058.wav,deeply,sub100122a00058,a,AnechoicChamber,an0
+an0,내일이 어머니 생신인데 어떤 선물을 사는 게 좋을까요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00058.wav,deeply,sub100100a00058,a,AirbnbStudio,an0
+an1,시계를 사 드리는 게 어때요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00059.wav,deeply,sub100120a00059,a,AnechoicChamber,an1
+an1,시계를 사 드리는 게 어때요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00059.wav,deeply,sub100121a00059,a,AnechoicChamber,an1
+an1,시계를 사 드리는 게 어때요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00059.wav,deeply,sub100122a00059,a,AnechoicChamber,an1
+an1,시계를 사 드리는 게 어때요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00059.wav,deeply,sub100100a00059,a,AirbnbStudio,an1
+an2,시계는 작년에 사 드렸어요. 다른 건 없을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00060.wav,deeply,sub100120a00060,a,AnechoicChamber,an2
+an2,시계는 작년에 사 드렸어요. 다른 건 없을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00060.wav,deeply,sub100121a00060,a,AnechoicChamber,an2
+an2,시계는 작년에 사 드렸어요. 다른 건 없을까요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00060.wav,deeply,sub100122a00060,a,AnechoicChamber,an2
+an2,시계는 작년에 사 드렸어요. 다른 건 없을까요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00060.wav,deeply,sub100100a00060,a,AirbnbStudio,an2
+an3,그럼 화장품이 어때요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00061.wav,deeply,sub100120a00061,a,AnechoicChamber,an3
+an3,그럼 화장품이 어때요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00061.wav,deeply,sub100121a00061,a,AnechoicChamber,an3
+an3,그럼 화장품이 어때요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00061.wav,deeply,sub100122a00061,a,AnechoicChamber,an3
+an3,그럼 화장품이 어때요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00061.wav,deeply,sub100100a00061,a,AirbnbStudio,an3
+ao0,"예, 호텔입니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00062.wav,deeply,sub100120a00062,a,AnechoicChamber,ao0
+ao0,"예, 호텔입니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00062.wav,deeply,sub100121a00062,a,AnechoicChamber,ao0
+ao0,"예, 호텔입니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00062.wav,deeply,sub100122a00062,a,AnechoicChamber,ao0
+ao0,"예, 호텔입니다.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00062.wav,deeply,sub100100a00062,a,AirbnbStudio,ao0
+ao1,이번 주말에 방이 있습니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00063.wav,deeply,sub100120a00063,a,AnechoicChamber,ao1
+ao1,이번 주말에 방이 있습니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00063.wav,deeply,sub100121a00063,a,AnechoicChamber,ao1
+ao1,이번 주말에 방이 있습니까?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00063.wav,deeply,sub100122a00063,a,AnechoicChamber,ao1
+ao1,이번 주말에 방이 있습니까?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00063.wav,deeply,sub100100a00063,a,AirbnbStudio,ao1
+ao2,"네, 있습니다. 모두 몇 분이십니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00064.wav,deeply,sub100120a00064,a,AnechoicChamber,ao2
+ao2,"네, 있습니다. 모두 몇 분이십니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00064.wav,deeply,sub100121a00064,a,AnechoicChamber,ao2
+ao2,"네, 있습니다. 모두 몇 분이십니까?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00064.wav,deeply,sub100122a00064,a,AnechoicChamber,ao2
+ao2,"네, 있습니다. 모두 몇 분이십니까?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00064.wav,deeply,sub100100a00064,a,AirbnbStudio,ao2
+ao3,어른 두 명과 아이 한 명입니다. 침대 방으로 예약해 주십시오.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00065.wav,deeply,sub100120a00065,a,AnechoicChamber,ao3
+ao3,어른 두 명과 아이 한 명입니다. 침대 방으로 예약해 주십시오.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00065.wav,deeply,sub100121a00065,a,AnechoicChamber,ao3
+ao3,어른 두 명과 아이 한 명입니다. 침대 방으로 예약해 주십시오.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00065.wav,deeply,sub100122a00065,a,AnechoicChamber,ao3
+ao3,어른 두 명과 아이 한 명입니다. 침대 방으로 예약해 주십시오.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00065.wav,deeply,sub100100a00065,a,AirbnbStudio,ao3
+ao4,"네, 알겠습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00066.wav,deeply,sub100120a00066,a,AnechoicChamber,ao4
+ao4,"네, 알겠습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00066.wav,deeply,sub100121a00066,a,AnechoicChamber,ao4
+ao4,"네, 알겠습니다.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00066.wav,deeply,sub100122a00066,a,AnechoicChamber,ao4
+ao4,"네, 알겠습니다.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00066.wav,deeply,sub100100a00066,a,AirbnbStudio,ao4
+ap0,커피 한 잔 드시겠어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00067.wav,deeply,sub100120a00067,a,AnechoicChamber,ap0
+ap0,커피 한 잔 드시겠어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00067.wav,deeply,sub100121a00067,a,AnechoicChamber,ap0
+ap0,커피 한 잔 드시겠어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00067.wav,deeply,sub100122a00067,a,AnechoicChamber,ap0
+ap0,커피 한 잔 드시겠어요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00067.wav,deeply,sub100100a00067,a,AirbnbStudio,ap0
+ap1,"아니요, 괜찮아요. 조금 전에 마셨어요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00068.wav,deeply,sub100120a00068,a,AnechoicChamber,ap1
+ap1,"아니요, 괜찮아요. 조금 전에 마셨어요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00068.wav,deeply,sub100121a00068,a,AnechoicChamber,ap1
+ap1,"아니요, 괜찮아요. 조금 전에 마셨어요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00068.wav,deeply,sub100122a00068,a,AnechoicChamber,ap1
+ap1,"아니요, 괜찮아요. 조금 전에 마셨어요.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00068.wav,deeply,sub100100a00068,a,AirbnbStudio,ap1
+ap2,그럼 주스는 어떠세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00069.wav,deeply,sub100120a00069,a,AnechoicChamber,ap2
+ap2,그럼 주스는 어떠세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00069.wav,deeply,sub100121a00069,a,AnechoicChamber,ap2
+ap2,그럼 주스는 어떠세요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00069.wav,deeply,sub100122a00069,a,AnechoicChamber,ap2
+ap2,그럼 주스는 어떠세요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00069.wav,deeply,sub100100a00069,a,AirbnbStudio,ap2
+ap3,"네, 좋아요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00070.wav,deeply,sub100120a00070,a,AnechoicChamber,ap3
+ap3,"네, 좋아요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00070.wav,deeply,sub100121a00070,a,AnechoicChamber,ap3
+ap3,"네, 좋아요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00070.wav,deeply,sub100122a00070,a,AnechoicChamber,ap3
+ap3,"네, 좋아요.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00070.wav,deeply,sub100100a00070,a,AirbnbStudio,ap3
+aq0,제가 한국 친구 집에 처음 가는데 어떤 선물을 가지고 가는 게 좋아요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00071.wav,deeply,sub100120a00071,a,AnechoicChamber,aq0
+aq0,제가 한국 친구 집에 처음 가는데 어떤 선물을 가지고 가는 게 좋아요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00071.wav,deeply,sub100121a00071,a,AnechoicChamber,aq0
+aq0,제가 한국 친구 집에 처음 가는데 어떤 선물을 가지고 가는 게 좋아요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00071.wav,deeply,sub100122a00071,a,AnechoicChamber,aq0
+aq0,제가 한국 친구 집에 처음 가는데 어떤 선물을 가지고 가는 게 좋아요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00071.wav,deeply,sub100100a00071,a,AirbnbStudio,aq0
+aq1,과일이나 케이크 같은 것이 좋아요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00072.wav,deeply,sub100120a00072,a,AnechoicChamber,aq1
+aq1,과일이나 케이크 같은 것이 좋아요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00072.wav,deeply,sub100121a00072,a,AnechoicChamber,aq1
+aq1,과일이나 케이크 같은 것이 좋아요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00072.wav,deeply,sub100122a00072,a,AnechoicChamber,aq1
+aq1,과일이나 케이크 같은 것이 좋아요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00072.wav,deeply,sub100100a00072,a,AirbnbStudio,aq1
+aq2,집에 친구의 부모님이 계시는데 특별히 조심해야 할 것이 있어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00073.wav,deeply,sub100120a00073,a,AnechoicChamber,aq2
+aq2,집에 친구의 부모님이 계시는데 특별히 조심해야 할 것이 있어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00073.wav,deeply,sub100121a00073,a,AnechoicChamber,aq2
+aq2,집에 친구의 부모님이 계시는데 특별히 조심해야 할 것이 있어요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00073.wav,deeply,sub100122a00073,a,AnechoicChamber,aq2
+aq2,집에 친구의 부모님이 계시는데 특별히 조심해야 할 것이 있어요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00073.wav,deeply,sub100100a00073,a,AirbnbStudio,aq2
+aq3,식사를 할 때는 어른보다 먼저 먹으면 안 돼요. 그리고 식사 후에도 어른보다 먼저 일어나지 않는 게 좋아요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00074.wav,deeply,sub100120a00074,a,AnechoicChamber,aq3
+aq3,식사를 할 때는 어른보다 먼저 먹으면 안 돼요. 그리고 식사 후에도 어른보다 먼저 일어나지 않는 게 좋아요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00074.wav,deeply,sub100121a00074,a,AnechoicChamber,aq3
+aq3,식사를 할 때는 어른보다 먼저 먹으면 안 돼요. 그리고 식사 후에도 어른보다 먼저 일어나지 않는 게 좋아요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00074.wav,deeply,sub100122a00074,a,AnechoicChamber,aq3
+aq3,식사를 할 때는 어른보다 먼저 먹으면 안 돼요. 그리고 식사 후에도 어른보다 먼저 일어나지 않는 게 좋아요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00074.wav,deeply,sub100100a00074,a,AirbnbStudio,aq3
+aq4,"네, 알겠습니다. 고마워요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00075.wav,deeply,sub100120a00075,a,AnechoicChamber,aq4
+aq4,"네, 알겠습니다. 고마워요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00075.wav,deeply,sub100121a00075,a,AnechoicChamber,aq4
+aq4,"네, 알겠습니다. 고마워요.",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00075.wav,deeply,sub100122a00075,a,AnechoicChamber,aq4
+aq4,"네, 알겠습니다. 고마워요.",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00075.wav,deeply,sub100100a00075,a,AirbnbStudio,aq4
+ar0,이번 주 수요일에 시간 있어요? 얼마 전에 이사를 했는데 친구들과 파티를 하려고요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00076.wav,deeply,sub100120a00076,a,AnechoicChamber,ar0
+ar0,이번 주 수요일에 시간 있어요? 얼마 전에 이사를 했는데 친구들과 파티를 하려고요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00076.wav,deeply,sub100121a00076,a,AnechoicChamber,ar0
+ar0,이번 주 수요일에 시간 있어요? 얼마 전에 이사를 했는데 친구들과 파티를 하려고요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00076.wav,deeply,sub100122a00076,a,AnechoicChamber,ar0
+ar0,이번 주 수요일에 시간 있어요? 얼마 전에 이사를 했는데 친구들과 파티를 하려고요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00076.wav,deeply,sub100100a00076,a,AirbnbStudio,ar0
+ar1,"네, 좋아요. 몇 시에 어디로 가면 돼요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00077.wav,deeply,sub100120a00077,a,AnechoicChamber,ar1
+ar1,"네, 좋아요. 몇 시에 어디로 가면 돼요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00077.wav,deeply,sub100121a00077,a,AnechoicChamber,ar1
+ar1,"네, 좋아요. 몇 시에 어디로 가면 돼요?",a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00077.wav,deeply,sub100122a00077,a,AnechoicChamber,ar1
+ar1,"네, 좋아요. 몇 시에 어디로 가면 돼요?",a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00077.wav,deeply,sub100100a00077,a,AirbnbStudio,ar1
+ar2,6시에 저희 집으로 오세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00078.wav,deeply,sub100120a00078,a,AnechoicChamber,ar2
+ar2,6시에 저희 집으로 오세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00078.wav,deeply,sub100121a00078,a,AnechoicChamber,ar2
+ar2,6시에 저희 집으로 오세요.,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00078.wav,deeply,sub100122a00078,a,AnechoicChamber,ar2
+ar2,6시에 저희 집으로 오세요.,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00078.wav,deeply,sub100100a00078,a,AirbnbStudio,ar2
+ar3,그런데 집이 어디예요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100120a00079.wav,deeply,sub100120a00079,a,AnechoicChamber,ar3
+ar3,그런데 집이 어디예요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100121a00079.wav,deeply,sub100121a00079,a,AnechoicChamber,ar3
+ar3,그런데 집이 어디예요?,a,AnechoicChamber,data/datasets/deeply/extracted/Dataset/AnechoicChamber/sub100122a00079.wav,deeply,sub100122a00079,a,AnechoicChamber,ar3
+ar3,그런데 집이 어디예요?,a,AirbnbStudio,data/datasets/deeply/extracted/Dataset/AirbnbStudio/sub100100a00079.wav,deeply,sub100100a00079,a,AirbnbStudio,ar3
